@@ -1,0 +1,17 @@
+/*styling using an id*/
+#jave{
+	color: red;
+	font: italic;
+}
+/*styling using a class name*/
+.group{
+	font: bold;
+	color: black;
+}
+
+/*styling using tag name*/
+p {
+	background-color: yellow;
+	font-family:sans-serif;
+
+}
